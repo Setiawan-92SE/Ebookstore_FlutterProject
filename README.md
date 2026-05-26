@@ -1,10 +1,10 @@
 # Refactoring Documentation: MVVM Pattern Implementation
 
 ## Project Flutter Kelompok Gunung Agung =
-Ganesha Setiawan (24082010092)
-Putu Pramudya Pratama (24082010113)
-Choirul Wahyu Adji (24082010122)
-David Mahlon Sarumaha (24082010126)
+- Ganesha Setiawan (24082010092)
+- Putu Pramudya Pratama (24082010113)
+- Choirul Wahyu Adji (24082010122)
+- David Mahlon Sarumaha (24082010126)
 
 ## 📋 Overview
 Proyek **E-BookStore Flutter** telah direfaktor dari arsitektur **2-Layer Monolith** (UI + Database langsung) menjadi **MVVM (Model-View-ViewModel)** dengan tambahan **Repository Layer**.
